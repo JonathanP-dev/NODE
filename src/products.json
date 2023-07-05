@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "code": 710,
+    "title": "prod1",
+    "description": "cocoa vascolet",
+    "price": 100,
+    "status": true,
+    "category": "Comida",
+    "thumbnail": [
+      "Sin imagen"
+    ],
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "code": 720,
+    "title": "prod2",
+    "description": "cafe negro",
+    "price": 120,
+    "status": true,
+    "category": "Comida",
+    "thumbnail": [
+      "Sin imagen"
+    ],
+    "stock": 5
+  },
+  {
+    "id": 3,
+    "code": 730,
+    "title": "prod3",
+    "description": "te ingles",
+    "price": 900,
+    "status": true,
+    "category": "Bebida",
+    "thumbnail": [
+      "Sin imagen"
+    ],
+    "stock": 15
+  },
+  {
+    "id": 4,
+    "code": 740,
+    "title": "prod4",
+    "description": "te ingles",
+    "price": 900,
+    "status": true,
+    "category": "Comida",
+    "thumbnail": [
+      "Sin imagen"
+    ],
+    "stock": 15
+  },
+  {
+    "id": 5,
+    "code": 750,
+    "title": "prod5",
+    "description": "te ingles",
+    "price": 900,
+    "status": true,
+    "category": "Merienda",
+    "thumbnail": [
+      "Sin imagen"
+    ],
+    "stock": 15
+  },
+  {
+    "id": 6,
+    "code": 760,
+    "title": "prod6",
+    "description": "te ingles",
+    "price": 900,
+    "status": true,
+    "category": "Merienda",
+    "thumbnail": [
+      "Sin imagen"
+    ],
+    "stock": 15
+  },
+  {
+    "id": 7,
+    "code": 770,
+    "title": "prod7",
+    "description": "te ingles",
+    "price": 900,
+    "status": true,
+    "category": "Comida",
+    "thumbnail": [
+      "Sin imagen"
+    ],
+    "stock": 15
+  },
+  {
+    "id": 8,
+    "code": 780,
+    "title": "prod8",
+    "description": "te ingles",
+    "price": 900,
+    "status": true,
+    "category": "Bebida",
+    "thumbnail": [
+      "Sin imagen"
+    ],
+    "stock": 15
+  },
+  {
+    "id": 9,
+    "code": 790,
+    "title": "prod9",
+    "description": "te ingles",
+    "price": 900,
+    "status": true,
+    "category": "Comida",
+    "thumbnail": [
+      "Sin imagen"
+    ],
+    "stock": 15
+  },
+  {
+    "id": 10,
+    "code": 800,
+    "title": "prod10",
+    "description": "te ingles",
+    "price": 900,
+    "status": true,
+    "category": "Bebida",
+    "thumbnail": [
+      "Sin imagen"
+    ],
+    "stock": 15
+  },
+  {
+    "id": 11,
+    "code": 810,
+    "title": "prod11",
+    "description": "te ingles",
+    "price": 900,
+    "status": true,
+    "category": "Bebida",
+    "thumbnail": [
+      "Sin imagen"
+    ],
+    "stock": 15
+  }
+]
