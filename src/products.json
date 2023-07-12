@@ -141,18 +141,5 @@
       "Sin imagen"
     ],
     "stock": 15
-  },
-  {
-    "id": 12,
-    "code": 10009,
-    "title": "prod10",
-    "description": "te ingles",
-    "price": 900,
-    "status": true,
-    "category": "Bebida",
-    "thumbnail": [
-      "Sin imagen"
-    ],
-    "stock": 15
   }
 ]
