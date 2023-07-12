@@ -187,114 +187,114 @@ export default class ProductManager {
 }
 
 // TEST CODE
-const manager = new ProductManager()
+// const manager = new ProductManager()
 
-const productsToAdd = [
-  {
-    code: 710,
-    title: 'prod1',
-    desc: 'cocoa vascolet',
-    price: 100,
-    category: 'Comida',
-    stock: 10
-  },
-  {
-    code: 720,
-    title: 'prod2',
-    desc: 'cafe negro',
-    price: 120,
-    category: 'Comida',
-    thumb: ['Sin imagen'],
-    stock: 5
-  },
-  {
-    code: 730,
-    title: 'prod3',
-    desc: 'te ingles',
-    price: 900,
-    category: 'Bebida',
-    thumb: ['Sin imagen'],
-    stock: 15
-  },
-  {
-    code: 740,
-    title: 'prod4',
-    desc: 'te ingles',
-    price: 900,
-    category: 'Comida',
-    thumb: ['Sin imagen'],
-    stock: 15
-  },
-  {
-    code: 750,
-    title: 'prod5',
-    desc: 'te ingles',
-    price: 900,
-    category: 'Merienda',
-    thumb: ['Sin imagen'],
-    stock: 15
-  },
-  {
-    code: 760,
-    title: 'prod6',
-    desc: 'te ingles',
-    price: 900,
-    category: 'Merienda',
-    thumb: ['Sin imagen'],
-    stock: 15
-  },
-  {
-    code: 770,
-    title: 'prod7',
-    desc: 'te ingles',
-    price: 900,
-    category: 'Comida',
-    thumb: ['Sin imagen'],
-    stock: 15
-  },
-  {
-    code: 780,
-    title: 'prod8',
-    desc: 'te ingles',
-    price: 900,
-    category: 'Bebida',
-    thumb: ['Sin imagen'],
-    stock: 15
-  },
-  {
-    code: 790,
-    title: 'prod9',
-    desc: 'te ingles',
-    price: 900,
-    category: 'Comida',
-    thumb: ['Sin imagen'],
-    stock: 15
-  },
-  {
-    code: 800,
-    title: 'prod10',
-    desc: 'te ingles',
-    price: 900,
-    category: 'Bebida',
-    thumb: ['Sin imagen'],
-    stock: 15
-  },
-  {
-    code: 810,
-    title: 'prod11',
-    desc: 'te ingles',
-    price: 900,
-    category: 'Bebida',
-    thumb: ['Sin imagen'],
-    stock: 15
-  }
-]
+// const productsToAdd = [
+//   {
+//     code: 710,
+//     title: 'prod1',
+//     desc: 'cocoa vascolet',
+//     price: 100,
+//     category: 'Comida',
+//     stock: 10
+//   },
+//   {
+//     code: 720,
+//     title: 'prod2',
+//     desc: 'cafe negro',
+//     price: 120,
+//     category: 'Comida',
+//     thumb: ['Sin imagen'],
+//     stock: 5
+//   },
+//   {
+//     code: 730,
+//     title: 'prod3',
+//     desc: 'te ingles',
+//     price: 900,
+//     category: 'Bebida',
+//     thumb: ['Sin imagen'],
+//     stock: 15
+//   },
+//   {
+//     code: 740,
+//     title: 'prod4',
+//     desc: 'te ingles',
+//     price: 900,
+//     category: 'Comida',
+//     thumb: ['Sin imagen'],
+//     stock: 15
+//   },
+//   {
+//     code: 750,
+//     title: 'prod5',
+//     desc: 'te ingles',
+//     price: 900,
+//     category: 'Merienda',
+//     thumb: ['Sin imagen'],
+//     stock: 15
+//   },
+//   {
+//     code: 760,
+//     title: 'prod6',
+//     desc: 'te ingles',
+//     price: 900,
+//     category: 'Merienda',
+//     thumb: ['Sin imagen'],
+//     stock: 15
+//   },
+//   {
+//     code: 770,
+//     title: 'prod7',
+//     desc: 'te ingles',
+//     price: 900,
+//     category: 'Comida',
+//     thumb: ['Sin imagen'],
+//     stock: 15
+//   },
+//   {
+//     code: 780,
+//     title: 'prod8',
+//     desc: 'te ingles',
+//     price: 900,
+//     category: 'Bebida',
+//     thumb: ['Sin imagen'],
+//     stock: 15
+//   },
+//   {
+//     code: 790,
+//     title: 'prod9',
+//     desc: 'te ingles',
+//     price: 900,
+//     category: 'Comida',
+//     thumb: ['Sin imagen'],
+//     stock: 15
+//   },
+//   {
+//     code: 800,
+//     title: 'prod10',
+//     desc: 'te ingles',
+//     price: 900,
+//     category: 'Bebida',
+//     thumb: ['Sin imagen'],
+//     stock: 15
+//   },
+//   {
+//     code: 810,
+//     title: 'prod11',
+//     desc: 'te ingles',
+//     price: 900,
+//     category: 'Bebida',
+//     thumb: ['Sin imagen'],
+//     stock: 15
+//   }
+// ]
 
 // agregando productos
-for ( let i = 0; i < productsToAdd.length; i++ ) {
-  const product = productsToAdd[i];
-  await manager.addProduct( product )
-}
+// for ( let i = 0; i < productsToAdd.length; i++ ) {
+//   const product = productsToAdd[i];
+//   await manager.addProduct( product )
+// }
 
 // *** UPDATE PRODUCT ***
 // const product4 = {
